@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+#nacionales #contenido {
+    background-color: #fffce0;
+	width: auto;
+    height: auto;
+	display: inline-block;
+}
+
+#titulosdesubpaginas {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 34px; 
+    float: left;
+    text-align: center;
+	padding: 25px 100px;
+}
+
+#contenido img {
+    width: 600px;
+	height: 353px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#contenido p {
+    text-align: justify;
+    padding: 15px 45px;
+}
+
+
+video {
+    width: 600px;
+	height: 353px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
